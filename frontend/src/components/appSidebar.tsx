@@ -39,18 +39,18 @@ const data = {
   navMain: [
     {
       title: "Analytics Dashboard",
-      url: "#",
+      url: "/",
       icon: SquareTerminal,
       isActive: true,
     },
     {
       title: "Tech Stack",
-      url: "#",
+      url: "/tech-stack",
       icon: Bot,
     },
     {
       title: "About Me",
-      url: "#",
+      url: "/about",
       icon: BookOpen,
     },
   ],
